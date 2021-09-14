@@ -1,3 +1,3 @@
-# angular-todo-applica
+# angular-todo-application
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-todo-applica)
+[Edit on StackBlitz ⚡️]
